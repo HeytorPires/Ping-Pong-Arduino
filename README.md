@@ -23,7 +23,7 @@ O jogo foi projetado para dois jogadores, onde cada um controla uma raquete atra
 | Display TFT 1.8" (160x128)    | 1          | Para a visualização do jogo.         |
 | Push Buttons (Botões)         | 4          | Para controlar as raquetes.          |
 | Buzzer                        | 1          | Para os efeitos sonoros.             |
-| Protoboard e Jumpers          | 1          | Para montar e conectar o circuito.   |
+| Protoboard e Jumpers          | 14         | Para montar e conectar o circuito.   |
 
 ## 🔌 Montagem do Circuito
 
